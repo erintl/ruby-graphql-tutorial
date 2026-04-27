@@ -45,6 +45,6 @@ group :development, :test do
   gem "rubocop-rails-omakase", require: false
 end
 
-gem "graphql", "~> 2.5"
+gem "graphql", "~> 2.6"
 
 gem "jwt", "~> 3.1"
